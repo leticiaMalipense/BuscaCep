@@ -1,0 +1,14 @@
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/bin/Debug/netstandard2.0/buscaCep.deps.json
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/bin/Debug/netstandard2.0/buscaCep.dll
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/bin/Debug/netstandard2.0/ref/buscaCep.dll
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/bin/Debug/netstandard2.0/buscaCep.pdb
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.csprojAssemblyReference.cache
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.AssemblyInfoInputs.cache
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.AssemblyInfo.cs
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.csproj.CoreCompileInputs.cache
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.dll
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/ref/buscaCep.dll
+/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep/obj/Debug/netstandard2.0/buscaCep.pdb

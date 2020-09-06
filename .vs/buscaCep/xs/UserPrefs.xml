@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A06826C2-8001-42CC-B194-8408659AF4B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.buscaCep.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.073D2378-6F77-428A-A066-5383171F71E0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="buscaCep/MainPage.xaml.cs">
+    <Files>
+      <File FileName="buscaCep/Servico/ServicoViaCep.cs" Line="16" Column="32" />
+      <File FileName="buscaCep/MainPage.xaml.cs" Line="27" Column="87" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="buscaCep" expanded="True">
+            <Node name="buscaCep" expanded="True">
+              <Node name="Servico" expanded="True">
+                <Node name="Modelo" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="buscaCep.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="buscaCep.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.buscaCep.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_4_API_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

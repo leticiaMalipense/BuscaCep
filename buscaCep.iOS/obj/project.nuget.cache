@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyLOxV4wX8dJQvsHCgJ1UYTdFK1luuvS7+p1P4ZJLAq2FUpPO6Qe41BMb3LVSypk5lrw8Xa+x6g6MAPN3BmeBQ==",
+  "success": true,
+  "projectFilePath": "/Users/leticiamalipense/Desktop/pos/buscaCep/buscaCep.iOS/buscaCep.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/leticiamalipense/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
